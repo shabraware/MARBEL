@@ -1,0 +1,1 @@
+this is my second responsive practice. i made it using HTML and CSS to apply what i have learned about flex box media queries.
